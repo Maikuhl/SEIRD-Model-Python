@@ -38,7 +38,7 @@ def SEIRD(y, t, rB, epsilon, gamma, delta):
 
 
 # setting constants 
-rB = 0.8        # float 
+rB = 0.4        # float 
 epsilon = 0.2   # float
 gamma = 0.1     # float
 delta = 0.05    # float
